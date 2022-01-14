@@ -1,0 +1,4 @@
+github.com/go-sql-driver/mysql v1.6.0 h1:BCTh4TKNUYmOmMUcQ3IipzF5prigylS7XXjEkfCHuOE=
+github.com/go-sql-driver/mysql v1.6.0/go.mod h1:DCzpHaOWr8IXmIStZouvnhqoel9Qv2LBy8hT2VhHyBg=
+github.com/h44z/lightmigrate v1.0.0 h1:wvkXvySwUTUuEMx0MAZaXzLa8vqspy0g5KwVfqLnpWQ=
+github.com/h44z/lightmigrate v1.0.0/go.mod h1:2QbrB1JaoGU+2kWOqf98jeULUSzJtdxovMYbdCwPyaE=
