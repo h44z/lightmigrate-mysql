@@ -1,6 +1,6 @@
 # LightMigrate - MySQL/MariaDB migration driver
 
-[![codecov](https://codecov.io/gh/h44z/lightmigrate-mysql/branch/master/graph/badge.svg?token=N7H27SQUUW)](https://codecov.io/gh/h44z/lightmigrate-mongodb)
+[![codecov](https://codecov.io/gh/h44z/lightmigrate-mysql/branch/master/graph/badge.svg?token=S7E18P04CY)](https://codecov.io/gh/h44z/lightmigrate-mysql)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![GoDoc](https://pkg.go.dev/badge/github.com/h44z/lightmigrate-mysql/mysql)](https://pkg.go.dev/github.com/h44z/lightmigrate-mysql/mysql)
 ![GitHub last commit](https://img.shields.io/github/last-commit/h44z/lightmigrate-mysql)
